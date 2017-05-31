@@ -1,1 +1,1 @@
-return 0
+print "Hello World from Travis-CI"
